@@ -3,6 +3,9 @@ A normal snake Game where you can move the snake with your arrow keys. The snake
 
 This program uses the <a href="https://docs.python.org/3/library/turtle.html">Turtle Library</a>.
 
+In order to play this game, simply clone this repo and do:
+``` python snake.py ```
+
 Here are some snippets of the game being played:
 
 <img width="794" alt="Screen Shot 2021-05-06 at 1 02 05 PM" src="https://user-images.githubusercontent.com/48005989/117358654-435f8800-ae6b-11eb-9454-6f44cd5ee07e.png">
